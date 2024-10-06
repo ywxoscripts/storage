@@ -6,5 +6,6 @@ return {
     "5f8e21d5-59c9-420e-ab1f-922ba09569f4",
     "809A24C2-9ACC-4EB1-B0BE-BAFBCD0B988F",
     "f9ce0685-4fcc-463d-95e3-18d71282009c",
-    "5e8d0e58-ad7f-4c85-aa0b-18be2f87a1b4"
+    "5e8d0e58-ad7f-4c85-aa0b-18be2f87a1b4",
+    "2f672e24-b690-409a-9215-f6c40f5a26b9"
 }
