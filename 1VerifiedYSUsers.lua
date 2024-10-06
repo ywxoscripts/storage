@@ -4,5 +4,7 @@ return {
     "5d34e7c9-c38a-4856-a396-921d202ada81",
     "b390f7b9-ce2c-43f5-a7cc-be7bd6671d72",
     "5f8e21d5-59c9-420e-ab1f-922ba09569f4",
-    "809A24C2-9ACC-4EB1-B0BE-BAFBCD0B988F"
+    "809A24C2-9ACC-4EB1-B0BE-BAFBCD0B988F",
+    "f9ce0685-4fcc-463d-95e3-18d71282009c",
+    "5e8d0e58-ad7f-4c85-aa0b-18be2f87a1b4"
 }
