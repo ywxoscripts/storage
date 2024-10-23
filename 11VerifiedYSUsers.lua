@@ -29,5 +29,6 @@ return {
     "4a4d231b-afd1-47dc-8e01-fe382d513782",
     "E2946A11-E40B-411D-96FC-E7A242675077",
     "87db1e9a-f425-4e34-8ab5-19d78186e17b",
-    "6cadc1b8-e8a4-4fef-bcd8-8f8ef529c728"
+    "6cadc1b8-e8a4-4fef-bcd8-8f8ef529c728",
+    "E8DD58E1-9459-4E47-9EEC-EF5D6514B779"
 }
