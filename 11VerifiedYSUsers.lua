@@ -31,5 +31,6 @@ return {
     "87db1e9a-f425-4e34-8ab5-19d78186e17b",
     "6cadc1b8-e8a4-4fef-bcd8-8f8ef529c728",
     "E8DD58E1-9459-4E47-9EEC-EF5D6514B779",
-    "faefb362-289a-423f-b099-a2f494f3f09f"
+    "faefb362-289a-423f-b099-a2f494f3f09f",
+    "EE5FEDA5-1846-40A0-A254-6DEC616BEED5"
 }
